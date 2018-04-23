@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426751014 source:c:\users\luis\dropbox\inco\programación\programa 41 (dos tablas)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
